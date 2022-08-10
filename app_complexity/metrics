@@ -1,0 +1,3319 @@
+{
+    "build": {
+        "active_branch": "master",
+        "committed_datetime": "2021-02-25T08:19:55-03:00",
+        "committed_ts": 1614251995,
+        "committers": [
+            "Haruan Justino"
+        ],
+        "origin": "git@github.com:haruanm/astrologia.git",
+        "sha": "596a75255bc99cbcf7703630120506b759291989",
+        "summary": "added search for clientes"
+    },
+    "files": {
+        ".pre-commit-config.yaml": {
+            "age_days": 148.4524074074074,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 3,
+            "committers_count": 2,
+            "language": "YAML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.07,
+            "sloc": 44
+        },
+        "astrologia/__init__.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 0
+        },
+        "astrologia/asgi.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 3,
+            "comments": 8,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 2.0,
+            "sloc": 4
+        },
+        "astrologia/settings.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 13,
+            "comments": 37,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.52,
+            "sloc": 71
+        },
+        "astrologia/urls.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 8,
+            "comments": 15,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 1.0,
+            "sloc": 15
+        },
+        "astrologia/wsgi.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 3,
+            "comments": 8,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 2.0,
+            "sloc": 4
+        },
+        "docker-compose.yml": {
+            "age_days": 75.56135416666667,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "YAML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 14
+        },
+        "isort.cfg": {
+            "age_days": 148.4524074074074,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "INI",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 8
+        },
+        "manage.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 22,
+                    "name": "main",
+                    "start": 7,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 2,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.13,
+            "sloc": 15
+        },
+        "mapa_astral/__init__.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 3,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 1
+        },
+        "mapa_astral/admin.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 31,
+                    "name": "ClienteAdmin",
+                    "start": 27,
+                    "type": "Class"
+                },
+                {
+                    "end": 51,
+                    "methods": [
+                        {
+                            "end": 35,
+                            "name": "is_valid",
+                            "start": 33,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 51,
+                            "name": "clean",
+                            "start": 36,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "RequiredDataItemFormSet",
+                    "start": 32,
+                    "type": "Class"
+                },
+                {
+                    "end": 57,
+                    "name": "DataItemAnaliseInline",
+                    "start": 52,
+                    "type": "Class"
+                },
+                {
+                    "end": 64,
+                    "name": "ItemAnaliseForm",
+                    "start": 58,
+                    "type": "Class"
+                },
+                {
+                    "end": 83,
+                    "methods": [
+                        {
+                            "end": 76,
+                            "name": "clean",
+                            "start": 73,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 79,
+                            "name": "get_model_perms",
+                            "start": 77,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 83,
+                            "name": "get_changeform_initial_data",
+                            "start": 80,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "ItemAnaliseAdmin",
+                    "start": 65,
+                    "type": "Class"
+                },
+                {
+                    "end": 90,
+                    "name": "PlanetaCasaCasaFaseAdmin",
+                    "start": 84,
+                    "type": "Class"
+                },
+                {
+                    "end": 97,
+                    "name": "PlanetaPlanetaFaseAdmin",
+                    "start": 91,
+                    "type": "Class"
+                },
+                {
+                    "end": 109,
+                    "name": "EspelhoAnaliseForm",
+                    "start": 98,
+                    "type": "Class"
+                },
+                {
+                    "end": 461,
+                    "methods": [
+                        {
+                            "end": 442,
+                            "name": "get_form",
+                            "start": 117,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 461,
+                            "name": "change_view",
+                            "start": 443,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "EspelhoAnaliseAdmin",
+                    "start": 110,
+                    "type": "Class"
+                },
+                {
+                    "end": 521,
+                    "methods": [
+                        {
+                            "end": 473,
+                            "name": "get_items_grid",
+                            "start": 470,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 477,
+                            "name": "get_data_items",
+                            "start": 474,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 480,
+                            "name": "get_item_form",
+                            "start": 478,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 492,
+                            "name": "save_model",
+                            "start": 481,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 521,
+                            "name": "change_view",
+                            "start": 493,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "AnaliseAdmin",
+                    "start": 462,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 20,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 9,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 476
+        },
+        "mapa_astral/apps.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 6,
+                    "name": "MapaAstralConfig",
+                    "start": 4,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 4,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 4
+        },
+        "mapa_astral/forms.py": {
+            "age_days": 125.35562499999999,
+            "block_positions": [
+                {
+                    "end": 12,
+                    "name": "DataItemAnaliseForm",
+                    "start": 6,
+                    "type": "Class"
+                },
+                {
+                    "end": 48,
+                    "name": "FiltrosAdicionarItemForm",
+                    "start": 17,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 7,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 40
+        },
+        "mapa_astral/management/commands/importar_dados.py": {
+            "age_days": 127.40371527777778,
+            "block_positions": [
+                {
+                    "end": 253,
+                    "methods": [
+                        {
+                            "end": 28,
+                            "name": "handle",
+                            "start": 11,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 47,
+                            "name": "import_planeta_casa_casa_fase",
+                            "start": 29,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 60,
+                            "name": "import_planeta_planeta_fase",
+                            "start": 48,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 117,
+                            "name": "import_itens_analises",
+                            "start": 61,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 133,
+                            "name": "import_analises",
+                            "start": 118,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 144,
+                            "name": "import_clientes",
+                            "start": 134,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 154,
+                            "name": "import_anos_pessoais",
+                            "start": 145,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 164,
+                            "name": "import_profeccoes",
+                            "start": 155,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 174,
+                            "name": "import_tipos",
+                            "start": 165,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 184,
+                            "name": "import_nodos",
+                            "start": 175,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 194,
+                            "name": "import_signo",
+                            "start": 185,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 204,
+                            "name": "import_tipo_planeta",
+                            "start": 195,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 214,
+                            "name": "import_planetas",
+                            "start": 205,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 224,
+                            "name": "import_idades",
+                            "start": 215,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 234,
+                            "name": "import_fases",
+                            "start": 225,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 244,
+                            "name": "import_casas",
+                            "start": 235,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 253,
+                            "name": "import_aspectos",
+                            "start": 245,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Command",
+                    "start": 8,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 4,
+            "comments": 16,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 44,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 213
+        },
+        "mapa_astral/migrations/0001_initial.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 208,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 201
+        },
+        "mapa_astral/migrations/0002_auto_20200922_2248.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 114,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.01,
+            "sloc": 108
+        },
+        "mapa_astral/migrations/0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 53,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.02,
+            "sloc": 64
+        },
+        "mapa_astral/migrations/0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 68,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.02,
+            "sloc": 62
+        },
+        "mapa_astral/migrations/0005_auto_20200928_2159.py": {
+            "age_days": 148.4524074074074,
+            "block_positions": [
+                {
+                    "end": 43,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.03,
+            "sloc": 37
+        },
+        "mapa_astral/migrations/0006_auto_20200929_1830.py": {
+            "age_days": 148.4524074074074,
+            "block_positions": [
+                {
+                    "end": 43,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.03,
+            "sloc": 37
+        },
+        "mapa_astral/migrations/0007_auto_20201020_0013.py": {
+            "age_days": 127.40371527777778,
+            "block_positions": [
+                {
+                    "end": 18,
+                    "name": "Migration",
+                    "start": 8,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.01,
+            "sloc": 76
+        },
+        "mapa_astral/migrations/0008_auto_20201020_2048.py": {
+            "age_days": 127.40371527777778,
+            "block_positions": [
+                {
+                    "end": 83,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.01,
+            "sloc": 84
+        },
+        "mapa_astral/migrations/0009_auto_20201023_1826.py": {
+            "age_days": 121.31849537037037,
+            "block_positions": [
+                {
+                    "end": 78,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.01,
+            "sloc": 72
+        },
+        "mapa_astral/migrations/0010_dataitemanalise_data_forte.py": {
+            "age_days": 121.31849537037037,
+            "block_positions": [
+                {
+                    "end": 18,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 12
+        },
+        "mapa_astral/migrations/0011_auto_20201028_1930.py": {
+            "age_days": 119.36216435185185,
+            "block_positions": [
+                {
+                    "end": 44,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.03,
+            "sloc": 38
+        },
+        "mapa_astral/migrations/0012_auto_20201103_1944.py": {
+            "age_days": 113.46399305555555,
+            "block_positions": [
+                {
+                    "end": 15,
+                    "name": "migrate_clients",
+                    "start": 7,
+                    "type": "Function"
+                },
+                {
+                    "end": 36,
+                    "name": "Migration",
+                    "start": 16,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.04,
+            "sloc": 27
+        },
+        "mapa_astral/migrations/0013_auto_20201104_2055.py": {
+            "age_days": 107.7008912037037,
+            "block_positions": [
+                {
+                    "end": 119,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.01,
+            "sloc": 113
+        },
+        "mapa_astral/migrations/0014_auto_20201215_2154.py": {
+            "age_days": 71.4304050925926,
+            "block_positions": [
+                {
+                    "end": 269,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 263
+        },
+        "mapa_astral/migrations/0015_auto_20201216_1408.py": {
+            "age_days": 70.51909722222221,
+            "block_positions": [
+                {
+                    "end": 19,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 13
+        },
+        "mapa_astral/migrations/0016_espelhoanalise_ano.py": {
+            "age_days": 70.51909722222221,
+            "block_positions": [
+                {
+                    "end": 18,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 12
+        },
+        "mapa_astral/migrations/0017_auto_20201216_1641.py": {
+            "age_days": 70.51909722222221,
+            "block_positions": [
+                {
+                    "end": 379,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 373
+        },
+        "mapa_astral/migrations/0018_auto_20201216_0341.py": {
+            "age_days": 71.17489583333334,
+            "block_positions": [
+                {
+                    "end": 389,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 383
+        },
+        "mapa_astral/migrations/0019_auto_20201221_2000.py": {
+            "age_days": 65.50295138888889,
+            "block_positions": [
+                {
+                    "end": 23,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.06,
+            "sloc": 17
+        },
+        "mapa_astral/migrations/0020_auto_20201222_1926.py": {
+            "age_days": 64.52877314814815,
+            "block_positions": [
+                {
+                    "end": 18,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 12
+        },
+        "mapa_astral/migrations/0021_auto_20210107_0939.py": {
+            "age_days": 20.451354166666665,
+            "block_positions": [
+                {
+                    "end": 279,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 273
+        },
+        "mapa_astral/migrations/0022_auto_20210111_1832.py": {
+            "age_days": 20.451354166666665,
+            "block_positions": [
+                {
+                    "end": 15,
+                    "name": "Migration",
+                    "start": 6,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.09,
+            "sloc": 11
+        },
+        "mapa_astral/migrations/0023_auto_20210204_2048.py": {
+            "age_days": 20.451354166666665,
+            "block_positions": [
+                {
+                    "end": 274,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 1,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 268
+        },
+        "mapa_astral/migrations/0024_auto_20210209_1806.py": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 32,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.04,
+            "sloc": 26
+        },
+        "mapa_astral/migrations/0025_auto_20210209_1834.py": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 54,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.02,
+            "sloc": 48
+        },
+        "mapa_astral/migrations/0026_auto_20210209_1844.py": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 23,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.06,
+            "sloc": 17
+        },
+        "mapa_astral/migrations/0027_auto_20210209_1845.py": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 41,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.03,
+            "sloc": 35
+        },
+        "mapa_astral/migrations/0028_espelhoanalise_profeccao_casa2.py": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 19,
+                    "name": "Migration",
+                    "start": 7,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 1,
+            "committers_count": 1,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.08,
+            "sloc": 13
+        },
+        "mapa_astral/migrations/__init__.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 0
+        },
+        "mapa_astral/models.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 57,
+                    "methods": [
+                        {
+                            "end": 57,
+                            "name": "imagem",
+                            "start": 39,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Planetas",
+                    "start": 9,
+                    "type": "Class"
+                },
+                {
+                    "end": 106,
+                    "methods": [
+                        {
+                            "end": 106,
+                            "name": "imagem",
+                            "start": 88,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Casas",
+                    "start": 58,
+                    "type": "Class"
+                },
+                {
+                    "end": 127,
+                    "methods": [
+                        {
+                            "end": 117,
+                            "name": "idade",
+                            "start": 111,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 127,
+                            "name": "aniversario",
+                            "start": 118,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Cliente",
+                    "start": 107,
+                    "type": "Class"
+                },
+                {
+                    "end": 143,
+                    "methods": [
+                        {
+                            "end": 143,
+                            "name": "imagem_base64",
+                            "start": 133,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Aspecto",
+                    "start": 128,
+                    "type": "Class"
+                },
+                {
+                    "end": 160,
+                    "methods": [
+                        {
+                            "end": 160,
+                            "name": "imagem_base64",
+                            "start": 150,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Fase",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 176,
+                    "methods": [
+                        {
+                            "end": 176,
+                            "name": "imagem_base64",
+                            "start": 166,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Idade",
+                    "start": 161,
+                    "type": "Class"
+                },
+                {
+                    "end": 192,
+                    "methods": [
+                        {
+                            "end": 192,
+                            "name": "imagem_base64",
+                            "start": 182,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Planeta",
+                    "start": 177,
+                    "type": "Class"
+                },
+                {
+                    "end": 205,
+                    "name": "TipoPlaneta",
+                    "start": 193,
+                    "type": "Class"
+                },
+                {
+                    "end": 221,
+                    "methods": [
+                        {
+                            "end": 221,
+                            "name": "imagem_base64",
+                            "start": 211,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Signo",
+                    "start": 206,
+                    "type": "Class"
+                },
+                {
+                    "end": 237,
+                    "methods": [
+                        {
+                            "end": 237,
+                            "name": "imagem_base64",
+                            "start": 227,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Nodo",
+                    "start": 222,
+                    "type": "Class"
+                },
+                {
+                    "end": 253,
+                    "methods": [
+                        {
+                            "end": 253,
+                            "name": "imagem_base64",
+                            "start": 243,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "Tipo",
+                    "start": 238,
+                    "type": "Class"
+                },
+                {
+                    "end": 265,
+                    "name": "Profeccao",
+                    "start": 254,
+                    "type": "Class"
+                },
+                {
+                    "end": 277,
+                    "name": "AnoPessoal",
+                    "start": 266,
+                    "type": "Class"
+                },
+                {
+                    "end": 287,
+                    "name": "ProfeccaoAnoPessoal",
+                    "start": 278,
+                    "type": "Class"
+                },
+                {
+                    "end": 300,
+                    "name": "PlanetaCasaCasaFase",
+                    "start": 288,
+                    "type": "Class"
+                },
+                {
+                    "end": 314,
+                    "name": "PlanetaPlanetaFase",
+                    "start": 301,
+                    "type": "Class"
+                },
+                {
+                    "end": 325,
+                    "name": "Analise",
+                    "start": 315,
+                    "type": "Class"
+                },
+                {
+                    "end": 374,
+                    "methods": [
+                        {
+                            "end": 350,
+                            "name": "anos",
+                            "start": 347,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 356,
+                            "name": "datas_dict",
+                            "start": 351,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 366,
+                            "name": "primeira_data",
+                            "start": 363,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 370,
+                            "name": "ultima_data",
+                            "start": 367,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 374,
+                            "name": "datas_ordenadas",
+                            "start": 371,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "ItemAnalise",
+                    "start": 326,
+                    "type": "Class"
+                },
+                {
+                    "end": 380,
+                    "name": "DataItemAnalise",
+                    "start": 375,
+                    "type": "Class"
+                },
+                {
+                    "end": 743,
+                    "methods": [
+                        {
+                            "end": 719,
+                            "name": "ano_pessoal",
+                            "start": 711,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 724,
+                            "name": "ponto_idade",
+                            "start": 720,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 733,
+                            "name": "meses",
+                            "start": 725,
+                            "type": "Function"
+                        },
+                        {
+                            "end": 743,
+                            "name": "profeccao",
+                            "start": 734,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "EspelhoAnalise",
+                    "start": 381,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 19,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 11,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 633
+        },
+        "mapa_astral/services/analise.py": {
+            "age_days": 116.74443287037037,
+            "block_positions": [
+                {
+                    "end": 5,
+                    "name": "get_analise",
+                    "start": 4,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 3
+        },
+        "mapa_astral/services/analise_item.py": {
+            "age_days": 119.36216435185185,
+            "block_positions": [
+                {
+                    "end": 44,
+                    "name": "_get_filtered_data_items_queryset",
+                    "start": 7,
+                    "type": "Function"
+                },
+                {
+                    "end": 48,
+                    "name": "date_sort",
+                    "start": 45,
+                    "type": "Function"
+                },
+                {
+                    "end": 63,
+                    "name": "get_items_grid",
+                    "start": 49,
+                    "type": "Function"
+                },
+                {
+                    "end": 105,
+                    "name": "get_items",
+                    "start": 64,
+                    "type": "Function"
+                },
+                {
+                    "end": 121,
+                    "name": "get_data_items",
+                    "start": 106,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 6,
+            "comments": 11,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 24,
+            "ratio_comment_to_code": 0.11,
+            "sloc": 104
+        },
+        "mapa_astral/services/espelho.py": {
+            "age_days": 71.4304050925926,
+            "block_positions": [
+                {
+                    "end": 10,
+                    "name": "_soma_numerologia",
+                    "start": 5,
+                    "type": "Function"
+                },
+                {
+                    "end": 14,
+                    "name": "ano_pessoal",
+                    "start": 11,
+                    "type": "Function"
+                },
+                {
+                    "end": 19,
+                    "name": "ponto_idade",
+                    "start": 15,
+                    "type": "Function"
+                },
+                {
+                    "end": 21,
+                    "name": "meses",
+                    "start": 20,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 5,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 13
+        },
+        "mapa_astral/services/image.py": {
+            "age_days": 118.34748842592592,
+            "block_positions": [
+                {
+                    "end": 13,
+                    "name": "image_as_base64",
+                    "start": 5,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 4,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.44,
+            "sloc": 9
+        },
+        "mapa_astral/services/pdf.py": {
+            "age_days": 118.34748842592592,
+            "block_positions": [
+                {
+                    "end": 13,
+                    "name": "render_to_pdf",
+                    "start": 6,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 11
+        },
+        "mapa_astral/static/admin_colors.css": {
+            "age_days": 75.56135416666667,
+            "block_positions": [
+                {
+                    "end": 21,
+                    "name": "breadcrumbs",
+                    "start": 18,
+                    "type": "Class"
+                },
+                {
+                    "end": 22,
+                    "name": "breadcrumbs",
+                    "start": 23,
+                    "type": "Class"
+                },
+                {
+                    "end": 27,
+                    "name": "active",
+                    "start": 23,
+                    "type": "Class"
+                },
+                {
+                    "end": 28,
+                    "name": "breadcrumbs",
+                    "start": 29,
+                    "type": "Class"
+                },
+                {
+                    "end": 33,
+                    "name": "breadcrumbs",
+                    "start": 29,
+                    "type": "Class"
+                },
+                {
+                    "end": 34,
+                    "name": "select2-container--admin-autocomplete",
+                    "start": 35,
+                    "type": "Class"
+                },
+                {
+                    "end": 37,
+                    "name": "select2-results__option--highlighted",
+                    "start": 35,
+                    "type": "Class"
+                },
+                {
+                    "end": 38,
+                    "name": "paginator",
+                    "start": 39,
+                    "type": "Class"
+                },
+                {
+                    "end": 41,
+                    "name": "paginator",
+                    "start": 39,
+                    "type": "Class"
+                },
+                {
+                    "end": 42,
+                    "name": "button",
+                    "start": 43,
+                    "type": "Class"
+                },
+                {
+                    "end": 42,
+                    "name": "submit-row",
+                    "start": 43,
+                    "type": "Class"
+                },
+                {
+                    "end": 45,
+                    "name": "button",
+                    "start": 43,
+                    "type": "Class"
+                },
+                {
+                    "end": 49,
+                    "name": "button",
+                    "start": 47,
+                    "type": "Class"
+                },
+                {
+                    "end": 50,
+                    "name": "module",
+                    "start": 51,
+                    "type": "Class"
+                },
+                {
+                    "end": 50,
+                    "name": "module",
+                    "start": 51,
+                    "type": "Class"
+                },
+                {
+                    "end": 53,
+                    "name": "inline-group",
+                    "start": 51,
+                    "type": "Class"
+                },
+                {
+                    "end": 62,
+                    "name": "selector-chosen",
+                    "start": 60,
+                    "type": "Class"
+                },
+                {
+                    "end": 63,
+                    "name": "calendar",
+                    "start": 64,
+                    "type": "Class"
+                },
+                {
+                    "end": 66,
+                    "name": "selected",
+                    "start": 64,
+                    "type": "Class"
+                },
+                {
+                    "end": 67,
+                    "name": "calendar",
+                    "start": 68,
+                    "type": "Class"
+                },
+                {
+                    "end": 68,
+                    "name": "timelist",
+                    "start": 68,
+                    "type": "Class"
+                },
+                {
+                    "end": 68,
+                    "name": "calendar",
+                    "start": 69,
+                    "type": "Class"
+                },
+                {
+                    "end": 71,
+                    "name": "timelist",
+                    "start": 69,
+                    "type": "Class"
+                },
+                {
+                    "end": 77,
+                    "name": "selected",
+                    "start": 73,
+                    "type": "Class"
+                },
+                {
+                    "end": 88,
+                    "name": "sorted",
+                    "start": 89,
+                    "type": "Class"
+                },
+                {
+                    "end": 88,
+                    "name": "sortoptions",
+                    "start": 89,
+                    "type": "Class"
+                },
+                {
+                    "end": 89,
+                    "name": "sortremove",
+                    "start": 89,
+                    "type": "Class"
+                },
+                {
+                    "end": 89,
+                    "name": "sorted",
+                    "start": 90,
+                    "type": "Class"
+                },
+                {
+                    "end": 89,
+                    "name": "sortoptions",
+                    "start": 90,
+                    "type": "Class"
+                },
+                {
+                    "end": 92,
+                    "name": "sortremove",
+                    "start": 90,
+                    "type": "Class"
+                },
+                {
+                    "end": 93,
+                    "name": "active",
+                    "start": 94,
+                    "type": "Class"
+                },
+                {
+                    "end": 93,
+                    "name": "selector-chooseall",
+                    "start": 94,
+                    "type": "Class"
+                },
+                {
+                    "end": 93,
+                    "name": "active",
+                    "start": 94,
+                    "type": "Class"
+                },
+                {
+                    "end": 94,
+                    "name": "selector-clearall",
+                    "start": 94,
+                    "type": "Class"
+                },
+                {
+                    "end": 94,
+                    "name": "active",
+                    "start": 95,
+                    "type": "Class"
+                },
+                {
+                    "end": 94,
+                    "name": "selector-chooseall",
+                    "start": 95,
+                    "type": "Class"
+                },
+                {
+                    "end": 94,
+                    "name": "active",
+                    "start": 95,
+                    "type": "Class"
+                },
+                {
+                    "end": 97,
+                    "name": "selector-clearall",
+                    "start": 95,
+                    "type": "Class"
+                },
+                {
+                    "end": 98,
+                    "name": "calendar",
+                    "start": 99,
+                    "type": "Class"
+                },
+                {
+                    "end": 101,
+                    "name": "timelist",
+                    "start": 99,
+                    "type": "Class"
+                },
+                {
+                    "end": 102,
+                    "name": "change-list",
+                    "start": 103,
+                    "type": "Class"
+                },
+                {
+                    "end": 102,
+                    "name": "toplinks",
+                    "start": 103,
+                    "type": "Class"
+                },
+                {
+                    "end": 103,
+                    "name": "date-back",
+                    "start": 103,
+                    "type": "Class"
+                },
+                {
+                    "end": 103,
+                    "name": "change-list",
+                    "start": 104,
+                    "type": "Class"
+                },
+                {
+                    "end": 103,
+                    "name": "toplinks",
+                    "start": 104,
+                    "type": "Class"
+                },
+                {
+                    "end": 106,
+                    "name": "date-back",
+                    "start": 104,
+                    "type": "Class"
+                },
+                {
+                    "end": 107,
+                    "name": "paginator",
+                    "start": 108,
+                    "type": "Class"
+                },
+                {
+                    "end": 107,
+                    "name": "showall",
+                    "start": 108,
+                    "type": "Class"
+                },
+                {
+                    "end": 107,
+                    "name": "paginator",
+                    "start": 108,
+                    "type": "Class"
+                },
+                {
+                    "end": 110,
+                    "name": "showall",
+                    "start": 108,
+                    "type": "Class"
+                },
+                {
+                    "end": 111,
+                    "name": "paginator",
+                    "start": 112,
+                    "type": "Class"
+                },
+                {
+                    "end": 118,
+                    "name": "paginator",
+                    "start": 112,
+                    "type": "Class"
+                },
+                {
+                    "end": 121,
+                    "name": "calendar",
+                    "start": 122,
+                    "type": "Class"
+                },
+                {
+                    "end": 125,
+                    "name": "timelist",
+                    "start": 122,
+                    "type": "Class"
+                },
+                {
+                    "end": 126,
+                    "name": "calendar",
+                    "start": 127,
+                    "type": "Class"
+                },
+                {
+                    "end": 129,
+                    "name": "calendarbox",
+                    "start": 127,
+                    "type": "Class"
+                },
+                {
+                    "end": 130,
+                    "name": "button",
+                    "start": 131,
+                    "type": "Class"
+                },
+                {
+                    "end": 130,
+                    "name": "default",
+                    "start": 131,
+                    "type": "Class"
+                },
+                {
+                    "end": 130,
+                    "name": "default",
+                    "start": 131,
+                    "type": "Class"
+                },
+                {
+                    "end": 130,
+                    "name": "submit-row",
+                    "start": 131,
+                    "type": "Class"
+                },
+                {
+                    "end": 133,
+                    "name": "default",
+                    "start": 131,
+                    "type": "Class"
+                },
+                {
+                    "end": 134,
+                    "name": "button",
+                    "start": 135,
+                    "type": "Class"
+                },
+                {
+                    "end": 134,
+                    "name": "default",
+                    "start": 135,
+                    "type": "Class"
+                },
+                {
+                    "end": 137,
+                    "name": "default",
+                    "start": 135,
+                    "type": "Class"
+                },
+                {
+                    "end": 139,
+                    "name": "select2-container--admin-autocomplete",
+                    "start": 140,
+                    "type": "Class"
+                },
+                {
+                    "end": 142,
+                    "name": "select2-results__option--highlighted",
+                    "start": 140,
+                    "type": "Class"
+                },
+                {
+                    "end": 143,
+                    "name": "button",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 143,
+                    "name": "default",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 143,
+                    "name": "default",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 143,
+                    "name": "submit-row",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 146,
+                    "name": "default",
+                    "start": 144,
+                    "type": "Class"
+                },
+                {
+                    "end": 147,
+                    "name": "object-tools",
+                    "start": 148,
+                    "type": "Class"
+                },
+                {
+                    "end": 150,
+                    "name": "object-tools",
+                    "start": 148,
+                    "type": "Class"
+                },
+                {
+                    "end": 169,
+                    "name": "current-model",
+                    "start": 167,
+                    "type": "Class"
+                },
+                {
+                    "end": 170,
+                    "name": "current-app",
+                    "start": 171,
+                    "type": "Class"
+                },
+                {
+                    "end": 170,
+                    "name": "section",
+                    "start": 171,
+                    "type": "Class"
+                },
+                {
+                    "end": 170,
+                    "name": "current-app",
+                    "start": 171,
+                    "type": "Class"
+                },
+                {
+                    "end": 177,
+                    "name": "section",
+                    "start": 171,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "CSS",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 130
+        },
+        "mapa_astral/static/slimselect.min.css": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [
+                {
+                    "end": 1,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-open-above",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-open-below",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "placeholder",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "placeholder",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "placeholder",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "placeholder",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "placeholder",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-deselect",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-deselect",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-hide",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-arrow",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-arrow",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-arrow",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "arrow-up",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-single-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-arrow",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "arrow-down",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-value",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-value-delete",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-open-above",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-open-below",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-value",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-value",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-out",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-values",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-value",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-value-delete",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-add",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-add",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-plus",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-add",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-plus",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-main",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-multi-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-add",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-plus",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-cross",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-open",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-hide",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-hide",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-search",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-addable",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-addable",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-optgroup",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-optgroup-label",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-optgroup",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-optgroup-label-selectable",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-optgroup-label-selectable",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-highlighted",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-disabled",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-option-selected",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-hide",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-content",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-list",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 0,
+                    "name": "ss-option",
+                    "start": 1,
+                    "type": "Class"
+                },
+                {
+                    "end": 1,
+                    "name": "ss-search-highlight",
+                    "start": 1,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 1,
+            "comments": 0,
+            "committers_count": 1,
+            "language": "CSS",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 1
+        },
+        "mapa_astral/static/slimselect.min.js": {
+            "age_days": 1.3738773148148147,
+            "block_positions": [],
+            "change_frequency": 1,
+            "comments": 0,
+            "committers_count": 1,
+            "language": "JavaScript",
+            "mccabe": 136,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 1
+        },
+        "mapa_astral/templates/admin/base_site.html": {
+            "age_days": 75.56135416666667,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 2
+        },
+        "mapa_astral/templates/admin/mapa_astral/analise_change_form.html": {
+            "age_days": 148.4524074074074,
+            "block_positions": [
+                {
+                    "end": 194,
+                    "name": "espelho",
+                    "start": 192,
+                    "type": "Class"
+                },
+                {
+                    "end": 199,
+                    "name": "filtered",
+                    "start": 196,
+                    "type": "Class"
+                },
+                {
+                    "end": 202,
+                    "name": "hidden",
+                    "start": 200,
+                    "type": "Class"
+                },
+                {
+                    "end": 209,
+                    "name": "filtered",
+                    "start": 204,
+                    "type": "Class"
+                },
+                {
+                    "end": 214,
+                    "name": "date-cell",
+                    "start": 211,
+                    "type": "Class"
+                },
+                {
+                    "end": 220,
+                    "name": "paginator",
+                    "start": 216,
+                    "type": "Class"
+                },
+                {
+                    "end": 221,
+                    "name": "paginator",
+                    "start": 222,
+                    "type": "Class"
+                },
+                {
+                    "end": 227,
+                    "name": "paginator",
+                    "start": 222,
+                    "type": "Class"
+                },
+                {
+                    "end": 231,
+                    "name": "field-cliente",
+                    "start": 229,
+                    "type": "Class"
+                },
+                {
+                    "end": 232,
+                    "name": "field-cliente",
+                    "start": 233,
+                    "type": "Class"
+                },
+                {
+                    "end": 238,
+                    "name": "related-widget-wrapper",
+                    "start": 233,
+                    "type": "Class"
+                },
+                {
+                    "end": 246,
+                    "name": "submit-row",
+                    "start": 246,
+                    "type": "Class"
+                },
+                {
+                    "end": 249,
+                    "name": "object-tools",
+                    "start": 247,
+                    "type": "Class"
+                },
+                {
+                    "end": 254,
+                    "name": "breadcrumbs",
+                    "start": 250,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 17,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 7,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 201
+        },
+        "mapa_astral/templates/admin/mapa_astral/analise_item_change_form.html": {
+            "age_days": 116.74443287037037,
+            "block_positions": [],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 1,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 17
+        },
+        "mapa_astral/templates/admin/mapa_astral/analise_itens_espelho.html": {
+            "age_days": 71.4304050925926,
+            "block_positions": [],
+            "change_frequency": 7,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 369
+        },
+        "mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html": {
+            "age_days": 84.33894675925926,
+            "block_positions": [
+                {
+                    "end": 74,
+                    "name": "grade-header",
+                    "start": 69,
+                    "type": "Class"
+                },
+                {
+                    "end": 78,
+                    "name": "filtered",
+                    "start": 76,
+                    "type": "Class"
+                },
+                {
+                    "end": 83,
+                    "name": "grade-header",
+                    "start": 81,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 5,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 65
+        },
+        "mapa_astral/templates/admin/mapa_astral/analise_itens_list.html": {
+            "age_days": 84.33894675925926,
+            "block_positions": [],
+            "change_frequency": 5,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 149
+        },
+        "mapa_astral/templates/admin/mapa_astral/espelho_analise_change_form.html": {
+            "age_days": 71.4304050925926,
+            "block_positions": [],
+            "change_frequency": 6,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 351
+        },
+        "mapa_astral/templates/itens_analise.html": {
+            "age_days": 127.40371527777778,
+            "block_positions": [],
+            "change_frequency": 7,
+            "comments": 3,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.02,
+            "sloc": 137
+        },
+        "mapa_astral/templates/mapa_astral/widgets/custom_datepicker.html": {
+            "age_days": 113.46399305555555,
+            "block_positions": [],
+            "change_frequency": 4,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "HTML",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 29
+        },
+        "mapa_astral/templatetags/custom_tags.py": {
+            "age_days": 148.4524074074074,
+            "block_positions": [
+                {
+                    "end": 15,
+                    "name": "input_type",
+                    "start": 10,
+                    "type": "Function"
+                },
+                {
+                    "end": 21,
+                    "name": "set_placeholder",
+                    "start": 16,
+                    "type": "Function"
+                },
+                {
+                    "end": 39,
+                    "name": "add_classes",
+                    "start": 22,
+                    "type": "Function"
+                },
+                {
+                    "end": 44,
+                    "name": "label_with_classes",
+                    "start": 40,
+                    "type": "Function"
+                },
+                {
+                    "end": 49,
+                    "name": "month_year_to_year_month",
+                    "start": 45,
+                    "type": "Function"
+                },
+                {
+                    "end": 54,
+                    "name": "check",
+                    "start": 50,
+                    "type": "Function"
+                },
+                {
+                    "end": 59,
+                    "name": "imagem",
+                    "start": 55,
+                    "type": "Function"
+                },
+                {
+                    "end": 63,
+                    "name": "imagem_casa",
+                    "start": 60,
+                    "type": "Function"
+                },
+                {
+                    "end": 78,
+                    "methods": [
+                        {
+                            "end": 78,
+                            "name": "instance",
+                            "start": 72,
+                            "type": "Function"
+                        }
+                    ],
+                    "name": "SingletonPlanetas",
+                    "start": 64,
+                    "type": "Class"
+                },
+                {
+                    "end": 83,
+                    "name": "imagem_planeta",
+                    "start": 79,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 5,
+            "comments": 18,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 14,
+            "ratio_comment_to_code": 0.33,
+            "sloc": 54
+        },
+        "mapa_astral/tests.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 11,
+                    "name": "test_meses",
+                    "start": 4,
+                    "type": "Function"
+                },
+                {
+                    "end": 15,
+                    "name": "test_soma_numerologia",
+                    "start": 12,
+                    "type": "Function"
+                },
+                {
+                    "end": 20,
+                    "name": "test_ano_pessoal",
+                    "start": 16,
+                    "type": "Function"
+                },
+                {
+                    "end": 23,
+                    "name": "test_ponto_idade",
+                    "start": 21,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 3,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 7,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 14
+        },
+        "mapa_astral/views.py": {
+            "age_days": 155.36641203703704,
+            "block_positions": [
+                {
+                    "end": 30,
+                    "name": "itens_analise",
+                    "start": 12,
+                    "type": "Function"
+                },
+                {
+                    "end": 86,
+                    "name": "descricao_item_analise",
+                    "start": 31,
+                    "type": "Function"
+                }
+            ],
+            "change_frequency": 8,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 3,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 71
+        },
+        "mapa_astral/widgets.py": {
+            "age_days": 113.46399305555555,
+            "block_positions": [
+                {
+                    "end": 13,
+                    "name": "CustomDatePickerInput",
+                    "start": 4,
+                    "type": "Class"
+                }
+            ],
+            "change_frequency": 2,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Python",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 10
+        },
+        "pytest.ini": {
+            "age_days": 71.4304050925926,
+            "block_positions": [],
+            "change_frequency": 1,
+            "comments": 0,
+            "committers_count": 1,
+            "language": "INI",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 4
+        },
+        "requirements.txt": {
+            "age_days": 113.46399305555555,
+            "block_positions": [],
+            "change_frequency": 4,
+            "comments": 0,
+            "committers_count": 2,
+            "language": "Text only",
+            "mccabe": 0,
+            "ratio_comment_to_code": 0.0,
+            "sloc": 0
+        }
+    }
+}

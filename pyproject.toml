@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "bd32"
+version = "0.1.0"
+description = ""
+authors = ["Haruan Justino <haruanm@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+neo4j-driver = "^4.2.1"
+py2neo = "^2021.0.1"
+Pygments = "^2.8.1"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+pylint = "^2.7.2"
+neovim = "^0.3.1"
+jedi = "^0.18.0"
+ropevim = "^0.8.1"
+flake8 = "^3.8.4"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

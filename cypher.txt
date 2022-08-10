@@ -1,0 +1,727 @@
+{}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 2, 'comments': 3, 'committers_count': 2, 'language': 'YAML', 'mccabe': 0, 'ratio_comment_to_code': 0.07, 'sloc': 44, 'absolute_path': '/home/haruan/Projects/astrologia/.pre-commit-config.yaml', 'relative_path': '.pre-commit-config.yaml', 'filename': '.pre-commit-config.yaml'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 0, 'absolute_path': '/home/haruan/Projects/astrologia/astrologia/__init__.py', 'relative_path': 'astrologia/__init__.py', 'filename': '__init__.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 3, 'comments': 8, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 2.0, 'sloc': 4, 'absolute_path': '/home/haruan/Projects/astrologia/astrologia/asgi.py', 'relative_path': 'astrologia/asgi.py', 'filename': 'asgi.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 13, 'comments': 37, 'committers_count': 2, 'language': 'Python', 'mccabe': 1, 'ratio_comment_to_code': 0.52, 'sloc': 71, 'absolute_path': '/home/haruan/Projects/astrologia/astrologia/settings.py', 'relative_path': 'astrologia/settings.py', 'filename': 'settings.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 8, 'comments': 15, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 1.0, 'sloc': 15, 'absolute_path': '/home/haruan/Projects/astrologia/astrologia/urls.py', 'relative_path': 'astrologia/urls.py', 'filename': 'urls.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 3, 'comments': 8, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 2.0, 'sloc': 4, 'absolute_path': '/home/haruan/Projects/astrologia/astrologia/wsgi.py', 'relative_path': 'astrologia/wsgi.py', 'filename': 'wsgi.py'}]}
+{'data': [{'age_days': 75.56135416666667, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'YAML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 14, 'absolute_path': '/home/haruan/Projects/astrologia/docker-compose.yml', 'relative_path': 'docker-compose.yml', 'filename': 'docker-compose.yml'}]}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'INI', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 8, 'absolute_path': '/home/haruan/Projects/astrologia/isort.cfg', 'relative_path': 'isort.cfg', 'filename': 'isort.cfg'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/manage.py', 'function_path': '/home/haruan/Projects/astrologia/manage.py::->main', 'end': 22, 'name': 'main', 'start': 7, 'type': 'Function'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 2, 'committers_count': 1, 'language': 'Python', 'mccabe': 1, 'ratio_comment_to_code': 0.13, 'sloc': 15, 'absolute_path': '/home/haruan/Projects/astrologia/manage.py', 'relative_path': 'manage.py', 'filename': 'manage.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 3, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 1, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/__init__.py', 'relative_path': 'mapa_astral/__init__.py', 'filename': '__init__.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ClienteAdmin', 'end': 31, 'name': 'ClienteAdmin', 'start': 27, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::RequiredDataItemFormSet->is_valid', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::RequiredDataItemFormSet', 'end': 35, 'name': 'is_valid', 'start': 33, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::RequiredDataItemFormSet->clean', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::RequiredDataItemFormSet', 'end': 51, 'name': 'clean', 'start': 36, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::RequiredDataItemFormSet', 'end': 51, 'name': 'RequiredDataItemFormSet', 'start': 32, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::DataItemAnaliseInline', 'end': 57, 'name': 'DataItemAnaliseInline', 'start': 52, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseForm', 'end': 64, 'name': 'ItemAnaliseForm', 'start': 58, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin->clean', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin', 'end': 76, 'name': 'clean', 'start': 73, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin->get_model_perms', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin', 'end': 79, 'name': 'get_model_perms', 'start': 77, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin->get_changeform_initial_data', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin', 'end': 83, 'name': 'get_changeform_initial_data', 'start': 80, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::ItemAnaliseAdmin', 'end': 83, 'name': 'ItemAnaliseAdmin', 'start': 65, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::PlanetaCasaCasaFaseAdmin', 'end': 90, 'name': 'PlanetaCasaCasaFaseAdmin', 'start': 84, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::PlanetaPlanetaFaseAdmin', 'end': 97, 'name': 'PlanetaPlanetaFaseAdmin', 'start': 91, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseForm', 'end': 109, 'name': 'EspelhoAnaliseForm', 'start': 98, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseAdmin->get_form', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseAdmin', 'end': 442, 'name': 'get_form', 'start': 117, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseAdmin->change_view', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseAdmin', 'end': 461, 'name': 'change_view', 'start': 443, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::EspelhoAnaliseAdmin', 'end': 461, 'name': 'EspelhoAnaliseAdmin', 'start': 110, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin->get_items_grid', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 473, 'name': 'get_items_grid', 'start': 470, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin->get_data_items', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 477, 'name': 'get_data_items', 'start': 474, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin->get_item_form', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 480, 'name': 'get_item_form', 'start': 478, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin->save_model', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 492, 'name': 'save_model', 'start': 481, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin->change_view', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 521, 'name': 'change_view', 'start': 493, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py::AnaliseAdmin', 'end': 521, 'name': 'AnaliseAdmin', 'start': 462, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 20, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 9, 'ratio_comment_to_code': 0.0, 'sloc': 476, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/admin.py', 'relative_path': 'mapa_astral/admin.py', 'filename': 'admin.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/apps.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/apps.py::MapaAstralConfig', 'end': 6, 'name': 'MapaAstralConfig', 'start': 4, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 4, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 4, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/apps.py', 'relative_path': 'mapa_astral/apps.py', 'filename': 'apps.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/forms.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/forms.py::DataItemAnaliseForm', 'end': 12, 'name': 'DataItemAnaliseForm', 'start': 6, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/forms.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/forms.py::FiltrosAdicionarItemForm', 'end': 48, 'name': 'FiltrosAdicionarItemForm', 'start': 17, 'type': 'Class'}]}
+{'data': [{'age_days': 125.35562499999999, 'change_frequency': 7, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 40, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/forms.py', 'relative_path': 'mapa_astral/forms.py', 'filename': 'forms.py'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->handle', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 28, 'name': 'handle', 'start': 11, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_planeta_casa_casa_fase', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 47, 'name': 'import_planeta_casa_casa_fase', 'start': 29, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_planeta_planeta_fase', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 60, 'name': 'import_planeta_planeta_fase', 'start': 48, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_itens_analises', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 117, 'name': 'import_itens_analises', 'start': 61, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_analises', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 133, 'name': 'import_analises', 'start': 118, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_clientes', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 144, 'name': 'import_clientes', 'start': 134, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_anos_pessoais', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 154, 'name': 'import_anos_pessoais', 'start': 145, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_profeccoes', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 164, 'name': 'import_profeccoes', 'start': 155, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_tipos', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 174, 'name': 'import_tipos', 'start': 165, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_nodos', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 184, 'name': 'import_nodos', 'start': 175, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_signo', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 194, 'name': 'import_signo', 'start': 185, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_tipo_planeta', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 204, 'name': 'import_tipo_planeta', 'start': 195, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_planetas', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 214, 'name': 'import_planetas', 'start': 205, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_idades', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 224, 'name': 'import_idades', 'start': 215, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_fases', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 234, 'name': 'import_fases', 'start': 225, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_casas', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 244, 'name': 'import_casas', 'start': 235, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command->import_aspectos', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 253, 'name': 'import_aspectos', 'start': 245, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py::Command', 'end': 253, 'name': 'Command', 'start': 8, 'type': 'Class'}]}
+{'data': [{'age_days': 127.40371527777778, 'change_frequency': 4, 'comments': 16, 'committers_count': 2, 'language': 'Python', 'mccabe': 44, 'ratio_comment_to_code': 0.08, 'sloc': 213, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/management/commands/importar_dados.py', 'relative_path': 'mapa_astral/management/commands/importar_dados.py', 'filename': 'importar_dados.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0001_initial.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0001_initial.py::Migration', 'end': 208, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 201, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0001_initial.py', 'relative_path': 'mapa_astral/migrations/0001_initial.py', 'filename': '0001_initial.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0002_auto_20200922_2248.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0002_auto_20200922_2248.py::Migration', 'end': 114, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.01, 'sloc': 108, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0002_auto_20200922_2248.py', 'relative_path': 'mapa_astral/migrations/0002_auto_20200922_2248.py', 'filename': '0002_auto_20200922_2248.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py::Migration', 'end': 53, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.02, 'sloc': 64, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py', 'relative_path': 'mapa_astral/migrations/0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py', 'filename': '0003_astroplanetascasascasasbfases_astroplanetasplanetasbfases_planetacasacasafase_planetaplanetafase.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py::Migration', 'end': 68, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.02, 'sloc': 62, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py', 'relative_path': 'mapa_astral/migrations/0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py', 'filename': '0004_analise_astrodadoscliente_dataitemanalise_itemanalise.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0005_auto_20200928_2159.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0005_auto_20200928_2159.py::Migration', 'end': 43, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.03, 'sloc': 37, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0005_auto_20200928_2159.py', 'relative_path': 'mapa_astral/migrations/0005_auto_20200928_2159.py', 'filename': '0005_auto_20200928_2159.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0006_auto_20200929_1830.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0006_auto_20200929_1830.py::Migration', 'end': 43, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.03, 'sloc': 37, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0006_auto_20200929_1830.py', 'relative_path': 'mapa_astral/migrations/0006_auto_20200929_1830.py', 'filename': '0006_auto_20200929_1830.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0007_auto_20201020_0013.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0007_auto_20201020_0013.py::Migration', 'end': 18, 'name': 'Migration', 'start': 8, 'type': 'Class'}]}
+{'data': [{'age_days': 127.40371527777778, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.01, 'sloc': 76, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0007_auto_20201020_0013.py', 'relative_path': 'mapa_astral/migrations/0007_auto_20201020_0013.py', 'filename': '0007_auto_20201020_0013.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0008_auto_20201020_2048.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0008_auto_20201020_2048.py::Migration', 'end': 83, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 127.40371527777778, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.01, 'sloc': 84, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0008_auto_20201020_2048.py', 'relative_path': 'mapa_astral/migrations/0008_auto_20201020_2048.py', 'filename': '0008_auto_20201020_2048.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0009_auto_20201023_1826.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0009_auto_20201023_1826.py::Migration', 'end': 78, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 121.31849537037037, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.01, 'sloc': 72, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0009_auto_20201023_1826.py', 'relative_path': 'mapa_astral/migrations/0009_auto_20201023_1826.py', 'filename': '0009_auto_20201023_1826.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0010_dataitemanalise_data_forte.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0010_dataitemanalise_data_forte.py::Migration', 'end': 18, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 121.31849537037037, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.08, 'sloc': 12, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0010_dataitemanalise_data_forte.py', 'relative_path': 'mapa_astral/migrations/0010_dataitemanalise_data_forte.py', 'filename': '0010_dataitemanalise_data_forte.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0011_auto_20201028_1930.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0011_auto_20201028_1930.py::Migration', 'end': 44, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 119.36216435185185, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.03, 'sloc': 38, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0011_auto_20201028_1930.py', 'relative_path': 'mapa_astral/migrations/0011_auto_20201028_1930.py', 'filename': '0011_auto_20201028_1930.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0012_auto_20201103_1944.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0012_auto_20201103_1944.py::->migrate_clients', 'end': 15, 'name': 'migrate_clients', 'start': 7, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0012_auto_20201103_1944.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0012_auto_20201103_1944.py::Migration', 'end': 36, 'name': 'Migration', 'start': 16, 'type': 'Class'}]}
+{'data': [{'age_days': 113.46399305555555, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 1, 'ratio_comment_to_code': 0.04, 'sloc': 27, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0012_auto_20201103_1944.py', 'relative_path': 'mapa_astral/migrations/0012_auto_20201103_1944.py', 'filename': '0012_auto_20201103_1944.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0013_auto_20201104_2055.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0013_auto_20201104_2055.py::Migration', 'end': 119, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 107.7008912037037, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.01, 'sloc': 113, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0013_auto_20201104_2055.py', 'relative_path': 'mapa_astral/migrations/0013_auto_20201104_2055.py', 'filename': '0013_auto_20201104_2055.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0014_auto_20201215_2154.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0014_auto_20201215_2154.py::Migration', 'end': 269, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 71.4304050925926, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 263, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0014_auto_20201215_2154.py', 'relative_path': 'mapa_astral/migrations/0014_auto_20201215_2154.py', 'filename': '0014_auto_20201215_2154.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0015_auto_20201216_1408.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0015_auto_20201216_1408.py::Migration', 'end': 19, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 70.51909722222221, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.08, 'sloc': 13, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0015_auto_20201216_1408.py', 'relative_path': 'mapa_astral/migrations/0015_auto_20201216_1408.py', 'filename': '0015_auto_20201216_1408.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0016_espelhoanalise_ano.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0016_espelhoanalise_ano.py::Migration', 'end': 18, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 70.51909722222221, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.08, 'sloc': 12, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0016_espelhoanalise_ano.py', 'relative_path': 'mapa_astral/migrations/0016_espelhoanalise_ano.py', 'filename': '0016_espelhoanalise_ano.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0017_auto_20201216_1641.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0017_auto_20201216_1641.py::Migration', 'end': 379, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 70.51909722222221, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 373, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0017_auto_20201216_1641.py', 'relative_path': 'mapa_astral/migrations/0017_auto_20201216_1641.py', 'filename': '0017_auto_20201216_1641.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0018_auto_20201216_0341.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0018_auto_20201216_0341.py::Migration', 'end': 389, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 71.17489583333334, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 383, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0018_auto_20201216_0341.py', 'relative_path': 'mapa_astral/migrations/0018_auto_20201216_0341.py', 'filename': '0018_auto_20201216_0341.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0019_auto_20201221_2000.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0019_auto_20201221_2000.py::Migration', 'end': 23, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 65.50295138888889, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.06, 'sloc': 17, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0019_auto_20201221_2000.py', 'relative_path': 'mapa_astral/migrations/0019_auto_20201221_2000.py', 'filename': '0019_auto_20201221_2000.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0020_auto_20201222_1926.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0020_auto_20201222_1926.py::Migration', 'end': 18, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 64.52877314814815, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.08, 'sloc': 12, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0020_auto_20201222_1926.py', 'relative_path': 'mapa_astral/migrations/0020_auto_20201222_1926.py', 'filename': '0020_auto_20201222_1926.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0021_auto_20210107_0939.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0021_auto_20210107_0939.py::Migration', 'end': 279, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 20.451354166666665, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 273, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0021_auto_20210107_0939.py', 'relative_path': 'mapa_astral/migrations/0021_auto_20210107_0939.py', 'filename': '0021_auto_20210107_0939.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0022_auto_20210111_1832.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0022_auto_20210111_1832.py::Migration', 'end': 15, 'name': 'Migration', 'start': 6, 'type': 'Class'}]}
+{'data': [{'age_days': 20.451354166666665, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.09, 'sloc': 11, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0022_auto_20210111_1832.py', 'relative_path': 'mapa_astral/migrations/0022_auto_20210111_1832.py', 'filename': '0022_auto_20210111_1832.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0023_auto_20210204_2048.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0023_auto_20210204_2048.py::Migration', 'end': 274, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 20.451354166666665, 'change_frequency': 2, 'comments': 1, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 268, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0023_auto_20210204_2048.py', 'relative_path': 'mapa_astral/migrations/0023_auto_20210204_2048.py', 'filename': '0023_auto_20210204_2048.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0024_auto_20210209_1806.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0024_auto_20210209_1806.py::Migration', 'end': 32, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.04, 'sloc': 26, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0024_auto_20210209_1806.py', 'relative_path': 'mapa_astral/migrations/0024_auto_20210209_1806.py', 'filename': '0024_auto_20210209_1806.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0025_auto_20210209_1834.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0025_auto_20210209_1834.py::Migration', 'end': 54, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.02, 'sloc': 48, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0025_auto_20210209_1834.py', 'relative_path': 'mapa_astral/migrations/0025_auto_20210209_1834.py', 'filename': '0025_auto_20210209_1834.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0026_auto_20210209_1844.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0026_auto_20210209_1844.py::Migration', 'end': 23, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.06, 'sloc': 17, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0026_auto_20210209_1844.py', 'relative_path': 'mapa_astral/migrations/0026_auto_20210209_1844.py', 'filename': '0026_auto_20210209_1844.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0027_auto_20210209_1845.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0027_auto_20210209_1845.py::Migration', 'end': 41, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.03, 'sloc': 35, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0027_auto_20210209_1845.py', 'relative_path': 'mapa_astral/migrations/0027_auto_20210209_1845.py', 'filename': '0027_auto_20210209_1845.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0028_espelhoanalise_profeccao_casa2.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0028_espelhoanalise_profeccao_casa2.py::Migration', 'end': 19, 'name': 'Migration', 'start': 7, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 1, 'committers_count': 1, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.08, 'sloc': 13, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/0028_espelhoanalise_profeccao_casa2.py', 'relative_path': 'mapa_astral/migrations/0028_espelhoanalise_profeccao_casa2.py', 'filename': '0028_espelhoanalise_profeccao_casa2.py'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 0, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/migrations/__init__.py', 'relative_path': 'mapa_astral/migrations/__init__.py', 'filename': '__init__.py'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planetas->imagem', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planetas', 'end': 57, 'name': 'imagem', 'start': 39, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planetas', 'end': 57, 'name': 'Planetas', 'start': 9, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Casas->imagem', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Casas', 'end': 106, 'name': 'imagem', 'start': 88, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Casas', 'end': 106, 'name': 'Casas', 'start': 58, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Cliente->idade', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Cliente', 'end': 117, 'name': 'idade', 'start': 111, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Cliente->aniversario', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Cliente', 'end': 127, 'name': 'aniversario', 'start': 118, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Cliente', 'end': 127, 'name': 'Cliente', 'start': 107, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Aspecto->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Aspecto', 'end': 143, 'name': 'imagem_base64', 'start': 133, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Aspecto', 'end': 143, 'name': 'Aspecto', 'start': 128, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Fase->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Fase', 'end': 160, 'name': 'imagem_base64', 'start': 150, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Fase', 'end': 160, 'name': 'Fase', 'start': 144, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Idade->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Idade', 'end': 176, 'name': 'imagem_base64', 'start': 166, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Idade', 'end': 176, 'name': 'Idade', 'start': 161, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planeta->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planeta', 'end': 192, 'name': 'imagem_base64', 'start': 182, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Planeta', 'end': 192, 'name': 'Planeta', 'start': 177, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::TipoPlaneta', 'end': 205, 'name': 'TipoPlaneta', 'start': 193, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Signo->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Signo', 'end': 221, 'name': 'imagem_base64', 'start': 211, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Signo', 'end': 221, 'name': 'Signo', 'start': 206, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Nodo->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Nodo', 'end': 237, 'name': 'imagem_base64', 'start': 227, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Nodo', 'end': 237, 'name': 'Nodo', 'start': 222, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Tipo->imagem_base64', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Tipo', 'end': 253, 'name': 'imagem_base64', 'start': 243, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Tipo', 'end': 253, 'name': 'Tipo', 'start': 238, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Profeccao', 'end': 265, 'name': 'Profeccao', 'start': 254, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::AnoPessoal', 'end': 277, 'name': 'AnoPessoal', 'start': 266, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ProfeccaoAnoPessoal', 'end': 287, 'name': 'ProfeccaoAnoPessoal', 'start': 278, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::PlanetaCasaCasaFase', 'end': 300, 'name': 'PlanetaCasaCasaFase', 'start': 288, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::PlanetaPlanetaFase', 'end': 314, 'name': 'PlanetaPlanetaFase', 'start': 301, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::Analise', 'end': 325, 'name': 'Analise', 'start': 315, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise->anos', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 350, 'name': 'anos', 'start': 347, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise->datas_dict', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 356, 'name': 'datas_dict', 'start': 351, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise->primeira_data', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 366, 'name': 'primeira_data', 'start': 363, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise->ultima_data', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 370, 'name': 'ultima_data', 'start': 367, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise->datas_ordenadas', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 374, 'name': 'datas_ordenadas', 'start': 371, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::ItemAnalise', 'end': 374, 'name': 'ItemAnalise', 'start': 326, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::DataItemAnalise', 'end': 380, 'name': 'DataItemAnalise', 'start': 375, 'type': 'Class'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise->ano_pessoal', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise', 'end': 719, 'name': 'ano_pessoal', 'start': 711, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise->ponto_idade', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise', 'end': 724, 'name': 'ponto_idade', 'start': 720, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise->meses', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise', 'end': 733, 'name': 'meses', 'start': 725, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise->profeccao', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise', 'end': 743, 'name': 'profeccao', 'start': 734, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py::EspelhoAnalise', 'end': 743, 'name': 'EspelhoAnalise', 'start': 381, 'type': 'Class'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 19, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 11, 'ratio_comment_to_code': 0.0, 'sloc': 633, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/models.py', 'relative_path': 'mapa_astral/models.py', 'filename': 'models.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise.py::->get_analise', 'end': 5, 'name': 'get_analise', 'start': 4, 'type': 'Function'}]}
+{'data': [{'age_days': 116.74443287037037, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 3, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise.py', 'relative_path': 'mapa_astral/services/analise.py', 'filename': 'analise.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py::->_get_filtered_data_items_queryset', 'end': 44, 'name': '_get_filtered_data_items_queryset', 'start': 7, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py::->date_sort', 'end': 48, 'name': 'date_sort', 'start': 45, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py::->get_items_grid', 'end': 63, 'name': 'get_items_grid', 'start': 49, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py::->get_items', 'end': 105, 'name': 'get_items', 'start': 64, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py::->get_data_items', 'end': 121, 'name': 'get_data_items', 'start': 106, 'type': 'Function'}]}
+{'data': [{'age_days': 119.36216435185185, 'change_frequency': 6, 'comments': 11, 'committers_count': 2, 'language': 'Python', 'mccabe': 24, 'ratio_comment_to_code': 0.11, 'sloc': 104, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/services/analise_item.py', 'relative_path': 'mapa_astral/services/analise_item.py', 'filename': 'analise_item.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py::->_soma_numerologia', 'end': 10, 'name': '_soma_numerologia', 'start': 5, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py::->ano_pessoal', 'end': 14, 'name': 'ano_pessoal', 'start': 11, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py::->ponto_idade', 'end': 19, 'name': 'ponto_idade', 'start': 15, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py::->meses', 'end': 21, 'name': 'meses', 'start': 20, 'type': 'Function'}]}
+{'data': [{'age_days': 71.4304050925926, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 5, 'ratio_comment_to_code': 0.0, 'sloc': 13, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/services/espelho.py', 'relative_path': 'mapa_astral/services/espelho.py', 'filename': 'espelho.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/image.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/image.py::->image_as_base64', 'end': 13, 'name': 'image_as_base64', 'start': 5, 'type': 'Function'}]}
+{'data': [{'age_days': 118.34748842592592, 'change_frequency': 2, 'comments': 4, 'committers_count': 2, 'language': 'Python', 'mccabe': 1, 'ratio_comment_to_code': 0.44, 'sloc': 9, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/services/image.py', 'relative_path': 'mapa_astral/services/image.py', 'filename': 'image.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/services/pdf.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/services/pdf.py::->render_to_pdf', 'end': 13, 'name': 'render_to_pdf', 'start': 6, 'type': 'Function'}]}
+{'data': [{'age_days': 118.34748842592592, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 1, 'ratio_comment_to_code': 0.0, 'sloc': 11, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/services/pdf.py', 'relative_path': 'mapa_astral/services/pdf.py', 'filename': 'pdf.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::breadcrumbs', 'end': 21, 'name': 'breadcrumbs', 'start': 18, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::breadcrumbs', 'end': 22, 'name': 'breadcrumbs', 'start': 23, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::active', 'end': 27, 'name': 'active', 'start': 23, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::breadcrumbs', 'end': 28, 'name': 'breadcrumbs', 'start': 29, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::breadcrumbs', 'end': 33, 'name': 'breadcrumbs', 'start': 29, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::select2-container--admin-autocomplete', 'end': 34, 'name': 'select2-container--admin-autocomplete', 'start': 35, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::select2-results__option--highlighted', 'end': 37, 'name': 'select2-results__option--highlighted', 'start': 35, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 38, 'name': 'paginator', 'start': 39, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 41, 'name': 'paginator', 'start': 39, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 42, 'name': 'button', 'start': 43, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::submit-row', 'end': 42, 'name': 'submit-row', 'start': 43, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 45, 'name': 'button', 'start': 43, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 49, 'name': 'button', 'start': 47, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::module', 'end': 50, 'name': 'module', 'start': 51, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::module', 'end': 50, 'name': 'module', 'start': 51, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::inline-group', 'end': 53, 'name': 'inline-group', 'start': 51, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selector-chosen', 'end': 62, 'name': 'selector-chosen', 'start': 60, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 63, 'name': 'calendar', 'start': 64, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selected', 'end': 66, 'name': 'selected', 'start': 64, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 67, 'name': 'calendar', 'start': 68, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::timelist', 'end': 68, 'name': 'timelist', 'start': 68, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 68, 'name': 'calendar', 'start': 69, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::timelist', 'end': 71, 'name': 'timelist', 'start': 69, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selected', 'end': 77, 'name': 'selected', 'start': 73, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sorted', 'end': 88, 'name': 'sorted', 'start': 89, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sortoptions', 'end': 88, 'name': 'sortoptions', 'start': 89, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sortremove', 'end': 89, 'name': 'sortremove', 'start': 89, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sorted', 'end': 89, 'name': 'sorted', 'start': 90, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sortoptions', 'end': 89, 'name': 'sortoptions', 'start': 90, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::sortremove', 'end': 92, 'name': 'sortremove', 'start': 90, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::active', 'end': 93, 'name': 'active', 'start': 94, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selector-chooseall', 'end': 93, 'name': 'selector-chooseall', 'start': 94, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::active', 'end': 93, 'name': 'active', 'start': 94, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selector-clearall', 'end': 94, 'name': 'selector-clearall', 'start': 94, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::active', 'end': 94, 'name': 'active', 'start': 95, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selector-chooseall', 'end': 94, 'name': 'selector-chooseall', 'start': 95, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::active', 'end': 94, 'name': 'active', 'start': 95, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::selector-clearall', 'end': 97, 'name': 'selector-clearall', 'start': 95, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 98, 'name': 'calendar', 'start': 99, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::timelist', 'end': 101, 'name': 'timelist', 'start': 99, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::change-list', 'end': 102, 'name': 'change-list', 'start': 103, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::toplinks', 'end': 102, 'name': 'toplinks', 'start': 103, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::date-back', 'end': 103, 'name': 'date-back', 'start': 103, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::change-list', 'end': 103, 'name': 'change-list', 'start': 104, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::toplinks', 'end': 103, 'name': 'toplinks', 'start': 104, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::date-back', 'end': 106, 'name': 'date-back', 'start': 104, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 107, 'name': 'paginator', 'start': 108, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::showall', 'end': 107, 'name': 'showall', 'start': 108, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 107, 'name': 'paginator', 'start': 108, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::showall', 'end': 110, 'name': 'showall', 'start': 108, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 111, 'name': 'paginator', 'start': 112, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::paginator', 'end': 118, 'name': 'paginator', 'start': 112, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 121, 'name': 'calendar', 'start': 122, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::timelist', 'end': 125, 'name': 'timelist', 'start': 122, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendar', 'end': 126, 'name': 'calendar', 'start': 127, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::calendarbox', 'end': 129, 'name': 'calendarbox', 'start': 127, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 130, 'name': 'button', 'start': 131, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 130, 'name': 'default', 'start': 131, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 130, 'name': 'default', 'start': 131, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::submit-row', 'end': 130, 'name': 'submit-row', 'start': 131, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 133, 'name': 'default', 'start': 131, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 134, 'name': 'button', 'start': 135, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 134, 'name': 'default', 'start': 135, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 137, 'name': 'default', 'start': 135, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::select2-container--admin-autocomplete', 'end': 139, 'name': 'select2-container--admin-autocomplete', 'start': 140, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::select2-results__option--highlighted', 'end': 142, 'name': 'select2-results__option--highlighted', 'start': 140, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::button', 'end': 143, 'name': 'button', 'start': 144, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 143, 'name': 'default', 'start': 144, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 143, 'name': 'default', 'start': 144, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::submit-row', 'end': 143, 'name': 'submit-row', 'start': 144, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::default', 'end': 146, 'name': 'default', 'start': 144, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::object-tools', 'end': 147, 'name': 'object-tools', 'start': 148, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::object-tools', 'end': 150, 'name': 'object-tools', 'start': 148, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::current-model', 'end': 169, 'name': 'current-model', 'start': 167, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::current-app', 'end': 170, 'name': 'current-app', 'start': 171, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::section', 'end': 170, 'name': 'section', 'start': 171, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::current-app', 'end': 170, 'name': 'current-app', 'start': 171, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css::section', 'end': 177, 'name': 'section', 'start': 171, 'type': 'Class'}]}
+{'data': [{'age_days': 75.56135416666667, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'CSS', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 130, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/static/admin_colors.css', 'relative_path': 'mapa_astral/static/admin_colors.css', 'filename': 'admin_colors.css'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 1, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 1, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-open-above', 'end': 1, 'name': 'ss-open-above', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-open-below', 'end': 1, 'name': 'ss-open-below', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::placeholder', 'end': 1, 'name': 'placeholder', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::placeholder', 'end': 0, 'name': 'placeholder', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::placeholder', 'end': 1, 'name': 'placeholder', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::placeholder', 'end': 1, 'name': 'placeholder', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::placeholder', 'end': 0, 'name': 'placeholder', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-deselect', 'end': 1, 'name': 'ss-deselect', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-deselect', 'end': 0, 'name': 'ss-deselect', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-hide', 'end': 1, 'name': 'ss-hide', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-arrow', 'end': 1, 'name': 'ss-arrow', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-arrow', 'end': 1, 'name': 'ss-arrow', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-arrow', 'end': 0, 'name': 'ss-arrow', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::arrow-up', 'end': 1, 'name': 'arrow-up', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-single-selected', 'end': 0, 'name': 'ss-single-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-arrow', 'end': 0, 'name': 'ss-arrow', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::arrow-down', 'end': 1, 'name': 'arrow-down', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 1, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 0, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 0, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value', 'end': 0, 'name': 'ss-value', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value-delete', 'end': 1, 'name': 'ss-value-delete', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-open-above', 'end': 1, 'name': 'ss-open-above', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-open-below', 'end': 1, 'name': 'ss-open-below', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 1, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value', 'end': 1, 'name': 'ss-value', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value', 'end': 0, 'name': 'ss-value', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-out', 'end': 1, 'name': 'ss-out', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-values', 'end': 0, 'name': 'ss-values', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value', 'end': 0, 'name': 'ss-value', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-value-delete', 'end': 1, 'name': 'ss-value-delete', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-add', 'end': 1, 'name': 'ss-add', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-add', 'end': 0, 'name': 'ss-add', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-plus', 'end': 1, 'name': 'ss-plus', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-add', 'end': 0, 'name': 'ss-add', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-plus', 'end': 1, 'name': 'ss-plus', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-main', 'end': 0, 'name': 'ss-main', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-multi-selected', 'end': 0, 'name': 'ss-multi-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-add', 'end': 0, 'name': 'ss-add', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-plus', 'end': 0, 'name': 'ss-plus', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-cross', 'end': 1, 'name': 'ss-cross', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 1, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-open', 'end': 1, 'name': 'ss-open', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 1, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 0, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-hide', 'end': 0, 'name': 'ss-hide', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 0, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-hide', 'end': 1, 'name': 'ss-hide', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 1, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 1, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 1, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search', 'end': 0, 'name': 'ss-search', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-addable', 'end': 1, 'name': 'ss-addable', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-addable', 'end': 1, 'name': 'ss-addable', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 1, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-optgroup', 'end': 0, 'name': 'ss-optgroup', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-optgroup-label', 'end': 1, 'name': 'ss-optgroup-label', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-optgroup', 'end': 0, 'name': 'ss-optgroup', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 1, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-optgroup-label-selectable', 'end': 1, 'name': 'ss-optgroup-label-selectable', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-optgroup-label-selectable', 'end': 1, 'name': 'ss-optgroup-label-selectable', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 1, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 1, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 0, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-highlighted', 'end': 0, 'name': 'ss-highlighted', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 1, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 0, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 1, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 0, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-disabled', 'end': 0, 'name': 'ss-disabled', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option-selected', 'end': 1, 'name': 'ss-option-selected', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 0, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-hide', 'end': 1, 'name': 'ss-hide', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-content', 'end': 0, 'name': 'ss-content', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-list', 'end': 0, 'name': 'ss-list', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-option', 'end': 0, 'name': 'ss-option', 'start': 1, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css::ss-search-highlight', 'end': 1, 'name': 'ss-search-highlight', 'start': 1, 'type': 'Class'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 0, 'committers_count': 1, 'language': 'CSS', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 1, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.css', 'relative_path': 'mapa_astral/static/slimselect.min.css', 'filename': 'slimselect.min.css'}]}
+{'data': [{'age_days': 1.3738773148148147, 'change_frequency': 1, 'comments': 0, 'committers_count': 1, 'language': 'JavaScript', 'mccabe': 136, 'ratio_comment_to_code': 0.0, 'sloc': 1, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/static/slimselect.min.js', 'relative_path': 'mapa_astral/static/slimselect.min.js', 'filename': 'slimselect.min.js'}]}
+{'data': [{'age_days': 75.56135416666667, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 2, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/base_site.html', 'relative_path': 'mapa_astral/templates/admin/base_site.html', 'filename': 'base_site.html'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::espelho', 'end': 194, 'name': 'espelho', 'start': 192, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::filtered', 'end': 199, 'name': 'filtered', 'start': 196, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::hidden', 'end': 202, 'name': 'hidden', 'start': 200, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::filtered', 'end': 209, 'name': 'filtered', 'start': 204, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::date-cell', 'end': 214, 'name': 'date-cell', 'start': 211, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::paginator', 'end': 220, 'name': 'paginator', 'start': 216, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::paginator', 'end': 221, 'name': 'paginator', 'start': 222, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::paginator', 'end': 227, 'name': 'paginator', 'start': 222, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::field-cliente', 'end': 231, 'name': 'field-cliente', 'start': 229, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::field-cliente', 'end': 232, 'name': 'field-cliente', 'start': 233, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::related-widget-wrapper', 'end': 238, 'name': 'related-widget-wrapper', 'start': 233, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::submit-row', 'end': 246, 'name': 'submit-row', 'start': 246, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::object-tools', 'end': 249, 'name': 'object-tools', 'start': 247, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html::breadcrumbs', 'end': 254, 'name': 'breadcrumbs', 'start': 250, 'type': 'Class'}]}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 17, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 7, 'ratio_comment_to_code': 0.0, 'sloc': 201, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/analise_change_form.html', 'filename': 'analise_change_form.html'}]}
+{'data': [{'age_days': 116.74443287037037, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 1, 'ratio_comment_to_code': 0.0, 'sloc': 17, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_item_change_form.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/analise_item_change_form.html', 'filename': 'analise_item_change_form.html'}]}
+{'data': [{'age_days': 71.4304050925926, 'change_frequency': 7, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 369, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_espelho.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/analise_itens_espelho.html', 'filename': 'analise_itens_espelho.html'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html::grade-header', 'end': 74, 'name': 'grade-header', 'start': 69, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html::filtered', 'end': 78, 'name': 'filtered', 'start': 76, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html::grade-header', 'end': 83, 'name': 'grade-header', 'start': 81, 'type': 'Class'}]}
+{'data': [{'age_days': 84.33894675925926, 'change_frequency': 5, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 65, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/analise_itens_grade.html', 'filename': 'analise_itens_grade.html'}]}
+{'data': [{'age_days': 84.33894675925926, 'change_frequency': 5, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 149, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/analise_itens_list.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/analise_itens_list.html', 'filename': 'analise_itens_list.html'}]}
+{'data': [{'age_days': 71.4304050925926, 'change_frequency': 6, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 351, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/admin/mapa_astral/espelho_analise_change_form.html', 'relative_path': 'mapa_astral/templates/admin/mapa_astral/espelho_analise_change_form.html', 'filename': 'espelho_analise_change_form.html'}]}
+{'data': [{'age_days': 127.40371527777778, 'change_frequency': 7, 'comments': 3, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.02, 'sloc': 137, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/itens_analise.html', 'relative_path': 'mapa_astral/templates/itens_analise.html', 'filename': 'itens_analise.html'}]}
+{'data': [{'age_days': 113.46399305555555, 'change_frequency': 4, 'comments': 0, 'committers_count': 2, 'language': 'HTML', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 29, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templates/mapa_astral/widgets/custom_datepicker.html', 'relative_path': 'mapa_astral/templates/mapa_astral/widgets/custom_datepicker.html', 'filename': 'custom_datepicker.html'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->input_type', 'end': 15, 'name': 'input_type', 'start': 10, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->set_placeholder', 'end': 21, 'name': 'set_placeholder', 'start': 16, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->add_classes', 'end': 39, 'name': 'add_classes', 'start': 22, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->label_with_classes', 'end': 44, 'name': 'label_with_classes', 'start': 40, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->month_year_to_year_month', 'end': 49, 'name': 'month_year_to_year_month', 'start': 45, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->check', 'end': 54, 'name': 'check', 'start': 50, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->imagem', 'end': 59, 'name': 'imagem', 'start': 55, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->imagem_casa', 'end': 63, 'name': 'imagem_casa', 'start': 60, 'type': 'Function'}]}
+{'data': [{'method_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::SingletonPlanetas->instance', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::SingletonPlanetas', 'end': 78, 'name': 'instance', 'start': 72, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::SingletonPlanetas', 'end': 78, 'name': 'SingletonPlanetas', 'start': 64, 'type': 'Class'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py::->imagem_planeta', 'end': 83, 'name': 'imagem_planeta', 'start': 79, 'type': 'Function'}]}
+{'data': [{'age_days': 148.4524074074074, 'change_frequency': 5, 'comments': 18, 'committers_count': 2, 'language': 'Python', 'mccabe': 14, 'ratio_comment_to_code': 0.33, 'sloc': 54, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/templatetags/custom_tags.py', 'relative_path': 'mapa_astral/templatetags/custom_tags.py', 'filename': 'custom_tags.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py::->test_meses', 'end': 11, 'name': 'test_meses', 'start': 4, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py::->test_soma_numerologia', 'end': 15, 'name': 'test_soma_numerologia', 'start': 12, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py::->test_ano_pessoal', 'end': 20, 'name': 'test_ano_pessoal', 'start': 16, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py::->test_ponto_idade', 'end': 23, 'name': 'test_ponto_idade', 'start': 21, 'type': 'Function'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 3, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 7, 'ratio_comment_to_code': 0.0, 'sloc': 14, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/tests.py', 'relative_path': 'mapa_astral/tests.py', 'filename': 'tests.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/views.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/views.py::->itens_analise', 'end': 30, 'name': 'itens_analise', 'start': 12, 'type': 'Function'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/views.py', 'function_path': '/home/haruan/Projects/astrologia/mapa_astral/views.py::->descricao_item_analise', 'end': 86, 'name': 'descricao_item_analise', 'start': 31, 'type': 'Function'}]}
+{'data': [{'age_days': 155.36641203703704, 'change_frequency': 8, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 3, 'ratio_comment_to_code': 0.0, 'sloc': 71, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/views.py', 'relative_path': 'mapa_astral/views.py', 'filename': 'views.py'}]}
+{'data': [{'file_path': '/home/haruan/Projects/astrologia/mapa_astral/widgets.py', 'class_path': '/home/haruan/Projects/astrologia/mapa_astral/widgets.py::CustomDatePickerInput', 'end': 13, 'name': 'CustomDatePickerInput', 'start': 4, 'type': 'Class'}]}
+{'data': [{'age_days': 113.46399305555555, 'change_frequency': 2, 'comments': 0, 'committers_count': 2, 'language': 'Python', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 10, 'absolute_path': '/home/haruan/Projects/astrologia/mapa_astral/widgets.py', 'relative_path': 'mapa_astral/widgets.py', 'filename': 'widgets.py'}]}
+{'data': [{'age_days': 71.4304050925926, 'change_frequency': 1, 'comments': 0, 'committers_count': 1, 'language': 'INI', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 4, 'absolute_path': '/home/haruan/Projects/astrologia/pytest.ini', 'relative_path': 'pytest.ini', 'filename': 'pytest.ini'}]}
+{'data': [{'age_days': 113.46399305555555, 'change_frequency': 4, 'comments': 0, 'committers_count': 2, 'language': 'Text only', 'mccabe': 0, 'ratio_comment_to_code': 0.0, 'sloc': 0, 'absolute_path': '/home/haruan/Projects/astrologia/requirements.txt', 'relative_path': 'requirements.txt', 'filename': 'requirements.txt'}]}
+{'data': [[735, {}, 476]]}
+{'data': [[739, {}, 740]]}
+{'data': [[742, {}, 764]]}
+{'data': [[743, {}, 745]]}
+{'data': [[744, {}, 745]]}
+{'data': [[745, {}, 764]]}
+{'data': [[746, {}, 764]]}
+{'data': [[747, {}, 764]]}
+{'data': [[748, {}, 751]]}
+{'data': [[749, {}, 751]]}
+{'data': [[750, {}, 751]]}
+{'data': [[751, {}, 764]]}
+{'data': [[752, {}, 764]]}
+{'data': [[753, {}, 764]]}
+{'data': [[754, {}, 764]]}
+{'data': [[755, {}, 757]]}
+{'data': [[756, {}, 757]]}
+{'data': [[757, {}, 764]]}
+{'data': [[758, {}, 763]]}
+{'data': [[759, {}, 763]]}
+{'data': [[760, {}, 763]]}
+{'data': [[761, {}, 763]]}
+{'data': [[762, {}, 763]]}
+{'data': [[763, {}, 764]]}
+{'data': [[764, {}, 156]]}
+{'data': [[764, {}, 769]]}
+{'data': [[764, {}, 769]]}
+{'data': [[764, {}, 769]]}
+{'data': [[764, {}, 164]]}
+{'data': [[764, {}, 164]]}
+{'data': [[765, {}, 766]]}
+{'data': [[767, {}, 769]]}
+{'data': [[768, {}, 769]]}
+{'data': [[769, {}, 156]]}
+{'data': [[769, {}, 478]]}
+{'data': [[770, {}, 787]]}
+{'data': [[771, {}, 787]]}
+{'data': [[772, {}, 787]]}
+{'data': [[773, {}, 787]]}
+{'data': [[774, {}, 787]]}
+{'data': [[775, {}, 787]]}
+{'data': [[776, {}, 787]]}
+{'data': [[777, {}, 787]]}
+{'data': [[778, {}, 787]]}
+{'data': [[779, {}, 787]]}
+{'data': [[780, {}, 787]]}
+{'data': [[781, {}, 787]]}
+{'data': [[782, {}, 787]]}
+{'data': [[783, {}, 787]]}
+{'data': [[784, {}, 787]]}
+{'data': [[785, {}, 787]]}
+{'data': [[786, {}, 787]]}
+{'data': [[787, {}, 788]]}
+{'data': [[788, {}, 156]]}
+{'data': [[789, {}, 790]]}
+{'data': [[791, {}, 792]]}
+{'data': [[793, {}, 794]]}
+{'data': [[795, {}, 796]]}
+{'data': [[797, {}, 798]]}
+{'data': [[799, {}, 800]]}
+{'data': [[801, {}, 802]]}
+{'data': [[803, {}, 804]]}
+{'data': [[805, {}, 806]]}
+{'data': [[807, {}, 808]]}
+{'data': [[809, {}, 810]]}
+{'data': [[811, {}, 813]]}
+{'data': [[812, {}, 813]]}
+{'data': [[814, {}, 815]]}
+{'data': [[816, {}, 817]]}
+{'data': [[818, {}, 819]]}
+{'data': [[820, {}, 821]]}
+{'data': [[822, {}, 823]]}
+{'data': [[824, {}, 825]]}
+{'data': [[826, {}, 827]]}
+{'data': [[828, {}, 829]]}
+{'data': [[830, {}, 831]]}
+{'data': [[832, {}, 833]]}
+{'data': [[834, {}, 835]]}
+{'data': [[836, {}, 837]]}
+{'data': [[838, {}, 839]]}
+{'data': [[840, {}, 841]]}
+{'data': [[842, {}, 843]]}
+{'data': [[844, {}, 845]]}
+{'data': [[847, {}, 848]]}
+{'data': [[848, {}, 156]]}
+{'data': [[849, {}, 850]]}
+{'data': [[850, {}, 156]]}
+{'data': [[851, {}, 853]]}
+{'data': [[852, {}, 853]]}
+{'data': [[853, {}, 156]]}
+{'data': [[854, {}, 855]]}
+{'data': [[855, {}, 156]]}
+{'data': [[856, {}, 857]]}
+{'data': [[857, {}, 156]]}
+{'data': [[858, {}, 859]]}
+{'data': [[859, {}, 156]]}
+{'data': [[860, {}, 861]]}
+{'data': [[861, {}, 156]]}
+{'data': [[862, {}, 156]]}
+{'data': [[863, {}, 864]]}
+{'data': [[864, {}, 156]]}
+{'data': [[865, {}, 866]]}
+{'data': [[866, {}, 156]]}
+{'data': [[867, {}, 868]]}
+{'data': [[868, {}, 156]]}
+{'data': [[869, {}, 156]]}
+{'data': [[870, {}, 156]]}
+{'data': [[871, {}, 156]]}
+{'data': [[872, {}, 156]]}
+{'data': [[873, {}, 156]]}
+{'data': [[874, {}, 156]]}
+{'data': [[875, {}, 880]]}
+{'data': [[876, {}, 880]]}
+{'data': [[877, {}, 880]]}
+{'data': [[878, {}, 880]]}
+{'data': [[879, {}, 880]]}
+{'data': [[880, {}, 156]]}
+{'data': [[881, {}, 156]]}
+{'data': [[882, {}, 155]]}
+{'data': [[152, {}, 155]]}
+{'data': [[153, {}, 155]]}
+{'data': [[154, {}, 155]]}
+{'data': [[155, {}, 156]]}
+{'data': [[156, {}, 169]]}
+{'data': [[156, {}, 171]]}
+{'data': [[157, {}, 158]]}
+{'data': [[158, {}, 156]]}
+{'data': [[159, {}, 164]]}
+{'data': [[160, {}, 164]]}
+{'data': [[161, {}, 164]]}
+{'data': [[162, {}, 164]]}
+{'data': [[163, {}, 164]]}
+{'data': [[164, {}, 156]]}
+{'data': [[164, {}, 156]]}
+{'data': [[165, {}, 169]]}
+{'data': [[166, {}, 169]]}
+{'data': [[167, {}, 169]]}
+{'data': [[168, {}, 169]]}
+{'data': [[170, {}, 171]]}
+{'data': [[172, {}, 173]]}
+{'data': [[178, {}, 252]]}
+{'data': [[210, {}, 252]]}
+{'data': [[238, {}, 252]]}
+{'data': [[239, {}, 252]]}
+{'data': [[225, {}, 252]]}
+{'data': [[240, {}, 252]]}
+{'data': [[243, {}, 252]]}
+{'data': [[188, {}, 252]]}
+{'data': [[189, {}, 252]]}
+{'data': [[190, {}, 252]]}
+{'data': [[228, {}, 252]]}
+{'data': [[197, {}, 252]]}
+{'data': [[227, {}, 252]]}
+{'data': [[201, {}, 252]]}
+{'data': [[202, {}, 252]]}
+{'data': [[203, {}, 252]]}
+{'data': [[209, {}, 252]]}
+{'data': [[211, {}, 252]]}
+{'data': [[217, {}, 252]]}
+{'data': [[218, {}, 252]]}
+{'data': [[219, {}, 252]]}
+{'data': [[223, {}, 252]]}
+{'data': [[229, {}, 252]]}
+{'data': [[244, {}, 252]]}
+{'data': [[246, {}, 252]]}
+{'data': [[247, {}, 252]]}
+{'data': [[250, {}, 252]]}
+{'data': [[251, {}, 252]]}
+{'data': [[356, {}, 429]]}
+{'data': [[299, {}, 429]]}
+{'data': [[419, {}, 429]]}
+{'data': [[320, {}, 429]]}
+{'data': [[323, {}, 429]]}
+{'data': [[279, {}, 429]]}
+{'data': [[286, {}, 429]]}
+{'data': [[424, {}, 429]]}
+{'data': [[300, {}, 429]]}
+{'data': [[297, {}, 429]]}
+{'data': [[301, {}, 429]]}
+{'data': [[357, {}, 429]]}
+{'data': [[342, {}, 429]]}
+{'data': [[343, {}, 429]]}
+{'data': [[344, {}, 429]]}
+{'data': [[339, {}, 429]]}
+{'data': [[358, {}, 429]]}
+{'data': [[359, {}, 429]]}
+{'data': [[360, {}, 429]]}
+{'data': [[425, {}, 429]]}
+{'data': [[363, {}, 429]]}
+{'data': [[379, {}, 429]]}
+{'data': [[382, {}, 429]]}
+{'data': [[426, {}, 429]]}
+{'data': [[391, {}, 429]]}
+{'data': [[388, {}, 429]]}
+{'data': [[427, {}, 429]]}
+{'data': [[398, {}, 429]]}
+{'data': [[408, {}, 429]]}
+{'data': [[420, {}, 429]]}
+{'data': [[428, {}, 429]]}
+{'data': [[432, {}, 446]]}
+{'data': [[435, {}, 446]]}
+{'data': [[434, {}, 446]]}
+{'data': [[436, {}, 446]]}
+{'data': [[439, {}, 446]]}
+{'data': [[441, {}, 446]]}
+{'data': [[442, {}, 446]]}
+{'data': [[443, {}, 446]]}
+{'data': [[444, {}, 446]]}
+{'data': [[445, {}, 446]]}
+{'data': [[451, {}, 452]]}
+{'data': [[450, {}, 452]]}
+{'data': [[457, {}, 468]]}
+{'data': [[458, {}, 468]]}
+{'data': [[459, {}, 468]]}
+{'data': [[460, {}, 468]]}
+{'data': [[461, {}, 468]]}
+{'data': [[462, {}, 468]]}
+{'data': [[463, {}, 468]]}
+{'data': [[464, {}, 468]]}
+{'data': [[465, {}, 466]]}
+{'data': [[466, {}, 468]]}
+{'data': [[467, {}, 468]]}
+{'data': [[468, {}, 156]]}
+{'data': [[468, {}, 156]]}
+{'data': [[468, {}, 156]]}
+{'data': [[468, {}, 156]]}
+{'data': [[469, {}, 473]]}
+{'data': [[470, {}, 473]]}
+{'data': [[471, {}, 473]]}
+{'data': [[472, {}, 473]]}
+{'data': [[473, {}, 169]]}
+{'data': [[474, {}, 476]]}
+{'data': [[475, {}, 476]]}
+{'data': [[476, {}, 769]]}
+{'data': [[476, {}, 769]]}
+{'data': [[476, {}, 769]]}
+{'data': [[476, {}, 156]]}
+{'data': [[476, {}, 156]]}
+{'data': [[476, {}, 156]]}
+{'data': [[476, {}, 156]]}
+{'data': [[476, {}, 156]]}
+{'data': [[476, {}, 158]]}
+{'data': [[476, {}, 164]]}
+{'data': [[476, {}, 173]]}
+{'data': [[477, {}, 478]]}
